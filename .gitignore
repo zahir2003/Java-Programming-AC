@@ -1,0 +1,23 @@
+# Ignore executable files
+*.exe
+
+# Ignore object files
+*.o
+
+# Ignore compiled binary files
+*.out
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore build directories (if using IDEs like CodeBlocks or Visual Studio)
+build/
+
+.vscode/
+
+# Ignore compiled Java class files
+*.class
+
+# Ignore the Java-Programming-AU folder (if needed)
+Java-Programming-AC/
