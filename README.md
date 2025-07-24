@@ -9,7 +9,7 @@
 
 ## 📌 **About**
 
-This repository contains my **Java Programming practice, assignments, and concept implementations** under **AC (Assumed Course Code)**. It showcases my learning journey in mastering **core Java, object-oriented programming, data structures, and algorithms** to build a strong foundation for software development and technical interviews.
+This repository contains my **Java Programming practice, assignments, and concept implementations** under **AC (Apna College)**. It showcases my learning journey in mastering **core Java, object-oriented programming, data structures, and algorithms** to build a strong foundation for software development and technical interviews.
 
 ---
 
